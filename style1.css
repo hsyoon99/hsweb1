@@ -53,3 +53,7 @@ $pink-shadow: #ffe3e2;
     box-sizing: border-box;
   }
 }
+.ad{
+  width: 320px;
+  margin: 0 auto;
+}
