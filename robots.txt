@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://compassionate-snyder-354b77.netlify.app/sitemap.xml
